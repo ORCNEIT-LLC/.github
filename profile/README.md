@@ -265,9 +265,9 @@ Our long-term objective is to build technologies that we can independently resea
 
 ### Community participation
 
-[Contributing](https://github.com/ORCNEIT-LLC/.github/blob/main/CONTRIBUTING.en.md) explains GitHub proposals, Contributors participation and the future direction of community API development. An available API has not been announced; component-specific terms will be published as they become ready.
+[Contributing](https://github.com/ORCNEIT-LLC/.github/blob/main/docs/en/contributing.md) explains GitHub proposals, Contributors participation and the future direction of community API development. An available API has not been announced; component-specific terms will be published as they become ready.
 
-[Code of conduct](https://github.com/ORCNEIT-LLC/.github/blob/main/CODE_OF_CONDUCT.en.md) covers respectful discussion, safe publication, private reporting and moderation.
+[Code of conduct](https://github.com/ORCNEIT-LLC/.github/blob/main/docs/en/code-of-conduct.md) covers respectful discussion, safe publication, private reporting and moderation.
 
 ### Contact
 

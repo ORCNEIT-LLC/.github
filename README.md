@@ -11,7 +11,7 @@
 
 Default community guidelines for the ORCNEIT-LLC GitHub organization. Repository-specific guidelines take precedence where provided.
 
-- [Contributing](CONTRIBUTING.en.md): research, the future API and ORCNEIT Contributors.
-- [Code of conduct](CODE_OF_CONDUCT.en.md): discussions, boundaries, reporting and moderation.
+- [Contributing](docs/en/contributing.md): research, the future API and ORCNEIT Contributors.
+- [Code of conduct](docs/en/code-of-conduct.md): discussions, boundaries, reporting and moderation.
 - [Company profile](profile/README.md).
 - [ORCNEITGPT research](https://github.com/ORCNEIT-LLC/research).

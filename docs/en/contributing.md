@@ -1,6 +1,6 @@
 # Contributing to ORCNEIT
 
-[Русский](CONTRIBUTING.md) · [Code of conduct](CODE_OF_CONDUCT.en.md)
+[Русский](../../CONTRIBUTING.md) · [Code of conduct](code-of-conduct.md)
 
 Contributing to ORCNEIT is not limited to programming. You can help clarify research reports, check numerical appendices, improve explanations, suggest ways to work with a future API, or create your own language materials through ORCNEIT Contributors. These activities use different contribution channels.
 
@@ -94,4 +94,4 @@ Issues, pull requests and attachments must not contain active credentials, priva
 - Conduct violations and possible vulnerabilities: privately to [report@orcneitlab.com](mailto:report@orcneitlab.com), without active credentials or sensitive details in public Issues.
 - Cooperation and proposals without a corresponding public repository: [contact@orcneitlab.com](mailto:contact@orcneitlab.com).
 
-Read the [community code of conduct](CODE_OF_CONDUCT.en.md) before participating.
+Read the [community code of conduct](code-of-conduct.md) before participating.
