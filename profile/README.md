@@ -145,7 +145,7 @@ ORCNEITGPT создаётся как долгосрочная исследова
 Материалы проходят предусмотренные этапы обработки и контроля качества перед возможным использованием в исследовательском контуре.
 
 - [Участие в подготовке данных](https://contributions.orcneitlab.com)
-- [Правила и помощь](https://help.orcneitlab.com)
+- [Правила и помощь](https://help.orcneit.com)
 
 ---
 
@@ -172,8 +172,16 @@ ORCNEITGPT создаётся как долгосрочная исследова
 - [ORCNEITGPT](https://orcneitlab.com/ru-RU/orcneitgpt)
 - [Ход разработки](https://orcneitlab.com/ru-RU/development)
 - [ORCNEIT Contributors](https://contributions.orcneitlab.com)
-- [Центр помощи](https://help.orcneitlab.com)
+- [Центр помощи](https://help.orcneit.com)
 - [Юридические документы](https://orcneitlab.com/ru-RU/policies)
+
+---
+
+## Участие в сообществе
+
+[Как внести вклад](https://github.com/ORCNEIT-LLC/.github/blob/main/CONTRIBUTING.md) — предложения и исправления на GitHub, подробное знакомство с Contributors и направление будущего развития API вместе с сообществом. API пока не объявлен доступным; условия отдельных компонентов будут публиковаться по мере готовности.
+
+[Нормы поведения](https://github.com/ORCNEIT-LLC/.github/blob/main/CODE_OF_CONDUCT.md) — уважительное обсуждение, безопасная публикация, приватные сообщения о нарушениях и порядок модерации.
 
 ---
 
@@ -252,8 +260,14 @@ Our long-term objective is to build technologies that we can independently resea
 - [ORCNEITGPT](https://orcneitlab.com/en-US/orcneitgpt)
 - [Development progress](https://orcneitlab.com/en-US/development)
 - [ORCNEIT Contributors](https://contributions.orcneitlab.com)
-- [Help Center](https://help.orcneitlab.com)
+- [Help Center](https://help.orcneit.com)
 - [Legal documents](https://orcneitlab.com/en-US/policies)
+
+### Community participation
+
+[Contributing](https://github.com/ORCNEIT-LLC/.github/blob/main/CONTRIBUTING.en.md) explains GitHub proposals, Contributors participation and the future direction of community API development. An available API has not been announced; component-specific terms will be published as they become ready.
+
+[Code of conduct](https://github.com/ORCNEIT-LLC/.github/blob/main/CODE_OF_CONDUCT.en.md) covers respectful discussion, safe publication, private reporting and moderation.
 
 ### Contact
 
